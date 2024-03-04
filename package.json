@@ -1,0 +1,20 @@
+{
+  "name": "FirmanWahyu241",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "FirmanWahyu24",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/FirmanWahyu24/FirmanWahyu241.git"
+  }
+}
